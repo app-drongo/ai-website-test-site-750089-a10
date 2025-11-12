@@ -8,7 +8,7 @@ type BackgroundPattern = 'dots' | 'grid' | 'gradient';
 
 const DEFAULT_HERO = {
   badge: 'Trusted by developers worldwide',
-  title: 'Build your next',
+  title: 'test your next',
   titleHighlight: 'web project',
   subtitle:
     'A simple, clean testing environment for modern web development. Start building with our minimal tech stack and streamlined workflow.',
